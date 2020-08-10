@@ -1,0 +1,754 @@
+/* for range 0px to 320px */
+@media only screen and (max-width:375px){
+    #in-container{
+        width: 100%;
+    }
+    .toplist{
+        display: none;
+    }
+    #li-item1, #li-item2, #li-item3, #li-item4, #li-item9{
+        display: block;
+    }
+    #first-inner-div{
+        font-size: 14px;
+    }
+    #second-inner-div{
+        font-size: 14px;
+    }
+    #content{
+        font-size: 16px;
+    }
+    #first-img{
+        height: 40em;
+        background-image: url('https://gizmotribe.files.wordpress.com/2020/04/flow_startframe.jpg');
+    }
+    #para{
+        padding-top: 10px;
+        font-size: 18px;
+    }
+    #para1{
+        font-size: 15px;
+    }
+    #para2{
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    #content2{
+        font-size: 18px;
+    }
+    #second-img{
+        height: 15em;
+        background-position: bottom;
+    }
+    #para3{
+        padding-top: 10px;
+        font-size: 18px;
+    }
+    #para4{
+        font-size: 14px;
+    }
+    #para5{
+        margin-top: 10px;
+        font-size: 14px;
+    }
+    #third-img{
+        height: 15em;
+        background-size: 110%;
+        background-position: bottom;
+    }
+    #content3{
+        font-size: 18px;
+    }
+    #para6{
+        padding-top: 10px;
+        font-size: 16px;
+    }
+    #para7{
+        font-size: 14px;
+    }
+    #other-products{
+        height: 150em;
+    }
+    .box{
+        width: 100%;
+        margin: 5px;
+    }
+    #box1{
+        padding-bottom: 40%;
+    }
+    #para8{
+        font-size: 26px;
+    }
+    #para9{
+        font-size: 14px;
+    }
+    #box2{
+        padding-bottom: 40%;
+    }
+    #content4{
+        font-size: 16px;
+    }
+    #para10{
+        font-size: 14px;
+    }
+    #para11{
+        font-size: 14px;
+    }
+    #box3{
+        padding-bottom: 40%;
+        background-position: bottom;
+    }
+    #content5{
+        font-size: 20px;
+    }
+    #para12{
+        font-size: 16px;
+    }
+    #para13{
+        font-size: 14px;
+    }
+    #box4{
+        padding-bottom: 40%;
+    }
+    #content6{
+        font-size: 20px;
+    }
+    #para14{
+        font-size: 16px;
+    }
+    #para15{
+        font-size: 14px;
+    }
+    #box5{
+        padding-bottom: 50%;
+    }
+    #content7{
+        font-size: 20px;
+    }
+    #para16{
+        font-size: 16px;
+    }
+    #para17{
+        font-size: 14px;
+    }
+    #box6{
+        padding-bottom: 10%;
+        background-size: 120%;
+    }
+    #content8{
+        padding-top: 4em;
+        font-size: 20px;
+    }
+    #para18{
+        font-size: 14px;
+    }
+    #para19{
+        font-size: 14px;
+    }
+    #footpara1{
+        width: 100%;
+    }
+    #footerpara{
+        width: 100%;
+    }
+    #footer-content{
+        justify-content: space-around;
+    }
+    #footpara3{
+        font-size: 13px;
+    }
+    #last{
+        margin-left: 3em;
+    }
+}
+
+/* for range 376px to 426px */
+@media only screen and (min-width:376px) and (max-width:426px){
+    #in-container{
+        width: 100%;
+    }
+    #li-item1{
+        display: none;
+    }
+    .toplist{
+        display: none;
+    }
+    #li-item1, #li-item2, #li-item3, #li-item4, #li-item9, #li-item10{
+        display: block;
+    }
+    #first-inner-div{
+        font-size: 14px;
+    }
+    #second-inner-div{
+        font-size: 14px;
+    }
+    #content{
+        font-size: 16px;
+    }
+    #first-img{
+        height: 40em;
+        background-image: url('https://gizmotribe.files.wordpress.com/2020/04/flow_startframe.jpg');
+    }
+    #para{
+        padding-top: 10px;
+        font-size: 18px;
+    }
+    #para1{
+        font-size: 15px;
+    }
+    #para2{
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    #content2{
+        font-size: 18px;
+    }
+    #second-img{
+        height: 20em;
+        background-position: bottom;
+    }
+    #para3{
+        padding-top: 10px;
+        font-size: 18px;
+    }
+    #para4{
+        font-size: 14px;
+    }
+    #para5{
+        margin-top: 10px;
+        font-size: 14px;
+    }
+    #third-img{
+        height: 15em;
+        background-size: 100%;
+        background-position: bottom;
+    }
+    #content3{
+        font-size: 18px;
+    }
+    #para6{
+        padding-top: 10px;
+        font-size: 16px;
+    }
+    #para7{
+        font-size: 14px;
+    }
+    #other-products{
+        height: 170em; 
+    }
+    .box{
+        width: 100%;
+        margin: 5px;
+    }
+    #box1{
+        padding-bottom: 40%;
+    }
+    #para8{
+        font-size: 26px;
+    }
+    #para9{
+        font-size: 14px;
+    }
+    #box2{
+        padding-bottom: 40%;
+    }
+    #content4{
+        font-size: 16px;
+    }
+    #para10{
+        font-size: 14px;
+    }
+    #para11{
+        font-size: 14px;
+    }
+    #box3{
+        padding-bottom: 40%;
+        background-position: bottom;
+    }
+    #content5{
+        font-size: 20px;
+    }
+    #para12{
+        font-size: 16px;
+    }
+    #para13{
+        font-size: 14px;
+    }
+    #box4{
+        padding-bottom: 40%;
+    }
+    #content6{
+        font-size: 20px;
+    }
+    #para14{
+        font-size: 16px;
+    }
+    #para15{
+        font-size: 14px;
+    }
+    #box5{
+        padding-bottom: 50%;
+    }
+    #content7{
+        font-size: 20px;
+    }
+    #para16{
+        font-size: 16px;
+    }
+    #para17{
+        font-size: 14px;
+    }
+    #box6{
+        padding-bottom: 10%;
+        background-size: 120%;
+    }
+    #content8{
+        padding-top: 6em;
+        font-size: 20px;
+    }
+    #para18{
+        font-size: 14px;
+    }
+    #para19{
+        font-size: 14px;
+    }
+    #hide{
+        display: none;
+    }
+    #footpara1{
+        width: 100%;
+    }
+    #footerpara{
+        width: 100%;
+    }
+    #footer-content{
+        justify-content: space-around;
+    }
+    #footpara3{
+        font-size: 13px;
+    }
+    #last{
+        margin-left: 3em;
+    }
+}
+
+/* for range 427px to 768px */
+@media only screen and (min-width:427px) and (max-width:768px){
+    #in-container{
+        width: 100%;
+    }
+    #first-inner-div{
+        font-size: 14px;
+    }
+    #second-inner-div{
+        font-size: 14px;
+    }
+    #content{
+        font-size: 20px;
+    }
+    #para{
+        padding-top: 10px;
+        font-size: 22px;
+    }
+    #para1{
+        font-size: 16px;
+    }
+    #para2{
+        margin-top: 10px;
+        font-size: 18px;
+    }
+    #content2{
+        font-size: 20px;
+    }
+    #second-img{
+        padding-bottom: 40%;
+        background-position: bottom;
+    }
+    #para3{
+        padding-top: 10px;
+        font-size: 22px;
+    }
+    #para4{
+        font-size: 16px;
+    }
+    #para5{
+        margin-top: 10px;
+        font-size: 18px;
+    }
+    #third-img{
+        background-size: 80%;
+        padding-bottom: 40%;
+    }
+    #content3{
+        font-size: 20px;
+    }
+    #para6{
+        padding-top: 10px;
+        font-size: 22px;
+    }
+    #para7{
+        font-size: 16px;
+    }
+    #other-products{
+        height: 100em;
+    }
+    .box{
+        width: 46%;
+        margin: 5px;
+    }
+    #para8{
+        font-size: 28px;
+    }
+    #para9{
+        font-size: 15px;
+    }
+    #box2{
+        padding-bottom: 20%;
+    }
+    #content4{
+        font-size: 18px;
+    }
+    #para10{
+        font-size: 16px;
+    }
+    #para11{
+        font-size: 15px;
+    }
+    #content5{
+        font-size: 22px;
+    }
+    #para12{
+        font-size: 18px;
+    }
+    #para13{
+        font-size: 16px;
+    }
+    #box4{
+        padding-bottom: 20%;
+    }
+    #content6{
+        font-size: 22px;
+    }
+    #para14{
+        font-size: 18px;
+    }
+    #para15{
+        font-size: 16px;
+    }
+    #content7{
+        font-size: 23px;
+    }
+    #para16{
+        font-size: 18px;
+    }
+    #para17{
+        font-size: 16px;
+    }
+    #box6{
+        padding-bottom: 16%;
+        background-size: 120%;
+    }
+    #content8{
+        padding-top: 5em;
+        font-size: 22px;
+    }
+    #para18{
+        font-size: 14px;
+    }
+    #para19{
+        font-size: 14px;
+    }
+    #footpara1{
+        width: 100%;
+    }
+    #footerpara{
+        width: 100%;
+    }
+    #footer-content{
+        justify-content: space-around;
+    }
+    #footpara3{
+        font-size: 13px;
+    }
+    #last{
+        margin-left: 3em;
+    }
+}
+
+
+/* for range 769px to 1024px */
+@media only screen and (min-width:769px) and (max-width:1024px){
+    #in-container{
+        width: 100%;
+    }
+    #first-inner-div{
+        font-size: 14px;
+    }
+    #second-inner-div{
+        font-size: 14px;
+    }
+    #content{
+        font-size: 20px;
+    }
+    #para{
+        padding-top: 10px;
+        font-size: 22px;
+    }
+    #para1{
+        font-size: 16px;
+    }
+    #para2{
+        margin-top: 10px;
+        font-size: 18px;
+    }
+    #content2{
+        font-size: 20px;
+    }
+    #second-img{
+        padding-bottom: 40%;
+        background-position: bottom;
+    }
+    #para3{
+        padding-top: 10px;
+        font-size: 22px;
+    }
+    #para4{
+        font-size: 16px;
+    }
+    #para5{
+        margin-top: 10px;
+        font-size: 18px;
+    }
+    #third-img{
+        background-size: 80%;
+        padding-bottom: 40%;
+    }
+    #content3{
+        font-size: 20px;
+    }
+    #para6{
+        padding-top: 10px;
+        font-size: 22px;
+    }
+    #para7{
+        font-size: 16px;
+    }
+    #other-products{
+        height: 100em;
+    }
+    .box{
+        width: 48%;
+        margin: 5px;
+    }
+    #para8{
+        font-size: 35px;
+    }
+    #para9{
+        font-size: 15px;
+    }
+    #content4{
+        font-size: 24px;
+    }
+    #para10{
+        font-size: 18px;
+    }
+    #para11{
+        font-size: 16px;
+    }
+    #content5{
+        font-size: 28px;
+    }
+    #para12{
+        font-size: 22px;
+    }
+    #para13{
+        font-size: 16px;
+    }
+    #content6{
+        font-size: 30px;
+    }
+    #para14{
+        font-size: 22px;
+    }
+    #para15{
+        font-size: 16px;
+    }
+    #content7{
+        font-size: 30px;
+    }
+    #para16{
+        font-size: 24px;
+    }
+    #para17{
+        font-size: 16px;
+    }
+    #box6{
+        background-size: 120%;
+    }
+    #content8{
+        padding-top: 5em;
+        font-size: 30px;
+    }
+    #para18{
+        font-size: 22px;
+    }
+    #para19{
+        font-size: 18px;
+    }
+    #footpara1{
+        width: 100%;
+    }
+    #footerpara{
+        width: 100%;
+    }
+    #footer-content{
+        justify-content: space-around;
+    }
+    #footpara2{
+        font-size: 15px;
+    }
+    #footpara3{
+        font-size: 15px;
+    }
+    #last{
+        margin-left: 11em;
+    }
+}
+/* for range 1026px to 1400px */
+@media only screen and (min-width:1026px) and (max-width:1400px){
+    #in-container{
+        width: 100%;
+    }
+    #first-inner-div{
+        font-size: 14px;
+    }
+    #second-inner-div{
+        font-size: 14px;
+    }
+    #content{
+        font-size: 20px;
+    }
+    #para{
+        padding-top: 10px;
+        font-size: 22px;
+    }
+    #para1{
+        font-size: 16px;
+    }
+    #para2{
+        margin-top: 10px;
+        font-size: 18px;
+    }
+    #content2{
+        font-size: 20px;
+    }
+    #second-img{
+        padding-bottom: 40%;
+        background-position: bottom;
+    }
+    #para3{
+        padding-top: 10px;
+        font-size: 22px;
+    }
+    #para4{
+        font-size: 16px;
+    }
+    #para5{
+        margin-top: 10px;
+        font-size: 18px;
+    }
+    #third-img{
+        background-size: 80%;
+        padding-bottom: 40%;
+    }
+    #content3{
+        font-size: 20px;
+    }
+    #para6{
+        padding-top: 10px;
+        font-size: 22px;
+    }
+    #para7{
+        font-size: 16px;
+    }
+    #other-products{
+        height: 100em;
+    }
+    .box{
+        width: 46%;
+        margin: 5px;
+    }
+    #para8{
+        font-size: 35px;
+    }
+    #para9{
+        font-size: 15px;
+    }
+    #content4{
+        font-size: 24px;
+    }
+    #para10{
+        font-size: 18px;
+    }
+    #para11{
+        font-size: 16px;
+    }
+    #content5{
+        font-size: 28px;
+    }
+    #para12{
+        font-size: 22px;
+    }
+    #para13{
+        font-size: 16px;
+    }
+    #content6{
+        font-size: 30px;
+    }
+    #para14{
+        font-size: 22px;
+    }
+    #para15{
+        font-size: 16px;
+    }
+    #content7{
+        font-size: 30px;
+    }
+    #para16{
+        font-size: 24px;
+    }
+    #para17{
+        font-size: 16px;
+    }
+    #box6{
+        background-size: 120%;
+    }
+    #content8{
+        padding-top: 5em;
+        font-size: 30px;
+    }
+    #para18{
+        font-size: 22px;
+    }
+    #para19{
+        font-size: 18px;
+    }
+    #footpara1{
+        width: 100%;
+    }
+    #footerpara{
+        width: 100%;
+    }
+    #footer-content{
+        justify-content: space-around;
+    }
+    #footpara2{
+        font-size: 15px;
+    }
+    #footpara3{
+        font-size: 15px;
+    }
+    #last{
+        margin-left: 16em;
+    }
+}
